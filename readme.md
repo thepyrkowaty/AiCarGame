@@ -18,7 +18,8 @@ The menu was created using pygame-menu module.
 __Playing against the bot:__
 
 ![alt text](https://raw.githubusercontent.com/thepyrkowaty/AiCarGame/master/readmeImages/carvsAI.png)
+Use left and right arrow key to move.
 
-__Looking how AI learns the game in short simulation:__
+__Looking at how AI learns the game in short simulation:__
 
 ![alt text](https://raw.githubusercontent.com/thepyrkowaty/AiCarGame/master/readmeImages/aiLearning.png)
