@@ -13,13 +13,12 @@ __Menu:__
 
 The menu was created using pygame-menu module.
 
-![alt text](https://raw.githubusercontent.com/thepyrkowaty/AI-Car-game/master/readmeImages/mainMenu.png)
+![alt text](https://raw.githubusercontent.com/thepyrkowaty/AiCarGame/master/readmeImages/mainMenu.png)
 
 __Playing against the bot:__
 
-![alt text](https://raw.githubusercontent.com/thepyrkowaty/AI-Car-game/master/readmeImages/carvsAI.png)
+![alt text](https://raw.githubusercontent.com/thepyrkowaty/AiCarGame/master/readmeImages/carvsAI.png)
 
 __Looking how AI learns the game in short simulation:__
 
-![alt text](https://raw.githubusercontent.com/thepyrkowaty/AI-Car-game/master/readmeImages/aiLearning.png)
-
+![alt text](https://raw.githubusercontent.com/thepyrkowaty/AiCarGame/master/readmeImages/aiLearning.png)
